@@ -1,0 +1,15 @@
+{
+    "title": "GCS",
+    "baseURL": "https:\/\/gcs.com\/gcs",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758991",
+        "subfolder": "\/gcs",
+        "firstpartycookies": true,
+        "cookiedomain": "gcs.com"
+    }
+}
